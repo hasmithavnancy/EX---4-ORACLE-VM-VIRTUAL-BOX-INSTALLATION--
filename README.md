@@ -36,7 +36,7 @@ Step 1: Download Kali Linux ISO
 Step 2: Open Oracle VM VirtualBox
 1.	Launch VirtualBox on your computer.
    
-<img width="1918" height="1133" alt="1" src="https://github.com/user-attachments/assets/7badc496-08c1-41dc-ab60-10e872db658e" />
+<img width="1045" height="622" alt="image" src="https://github.com/user-attachments/assets/7c99e30d-e5b9-41b5-b9e4-444737800eec" />
 
 Step 3: Create a New Virtual Machine
 1.	In VirtualBox, click on the New button to create a new virtual machine.
@@ -72,13 +72,14 @@ Step 9: Configure Kali Linux ISO
 Step 10: Start the Virtual Machine
 1.	In VirtualBox, click Start to boot up your Kali Linux virtual machine.
 
-<img width="1920" height="1111" alt="Oracle VirtualBox Manager 07-09-2025 22_24_35" src="https://github.com/user-attachments/assets/04920cfe-a5db-4de1-95dd-b34267d09422" />
+<img width="1044" height="604" alt="image" src="https://github.com/user-attachments/assets/43927c9c-c0f2-473c-9a1f-2144217276fc" />
 
 
 Step 11: Begin Kali Linux Installation
 1.	The VM will now boot from the ISO. You’ll see a boot menu.   Select Graphical Install and press Enter.
    
-<img width="1920" height="1111" alt="Kali Linux  Running  - Oracle VirtualBox 07-09-2025 22_24_57" src="https://github.com/user-attachments/assets/4148f341-e713-41b7-8453-c7857a7a1c5f" />
+<img width="1044" height="609" alt="image" src="https://github.com/user-attachments/assets/b02caa45-4730-47f2-bb1d-d4cec55c0336" />
+
 
 Step 12: Select Language and Region
 1.	Choose your language, location, and keyboard layout.   These can be configured to your preference.
@@ -106,30 +107,34 @@ Step 19: Login to Kali Linux
 1.	Once the machine reboots, you’ll be presented with a login screen.
 2.	Log in using the root account and the password you set earlier.
    
-<img width="1920" height="1111" alt="Kali Linux  Running  - Oracle VirtualBox 07-09-2025 22_30_08" src="https://github.com/user-attachments/assets/0341e5e4-2d25-434c-bd38-1c4c91623af6" />
+<img width="1046" height="611" alt="image" src="https://github.com/user-attachments/assets/de2031b6-91c8-4037-a753-b7efc419c729" />
 
 ## EXPECTED OUTPUT
 .sh method
 
 ## PROGRAM
 
-<img width="816" height="140" alt="sh method" src="https://github.com/user-attachments/assets/1e9a97c9-3bc2-45fe-a8be-3c82fa41f383" />
+<img width="817" height="138" alt="image" src="https://github.com/user-attachments/assets/6136d307-f025-4e2b-8fd3-37ea96c865de" />
+
 
 
 ## EXPECTED OUTPUT
+<img width="415" height="286" alt="image" src="https://github.com/user-attachments/assets/824d15c4-963d-48a3-9d09-1bfaa87d923d" />
 
-<img width="292" height="176" alt="eo" src="https://github.com/user-attachments/assets/f524ca84-a33e-4da3-934e-931b2300495f" />
 
 ## TERMINAL METHOD
 
-<img width="432" height="376" alt="1" src="https://github.com/user-attachments/assets/b57e8912-3c62-47a8-b21f-1dd515d003e0" />
+<img width="431" height="411" alt="image" src="https://github.com/user-attachments/assets/750686ef-9bbc-472b-a3fd-651570cef6a3" />
+
 
 ## CHMOD METHOD
-<img width="200" height="53" alt="2" src="https://github.com/user-attachments/assets/1f90de9f-a07c-4911-b1d5-387afc0cb607" />
+<img width="292" height="48" alt="Screenshot 2025-09-10 162401" src="https://github.com/user-attachments/assets/34d5674a-25f0-45cc-8afd-fe8a8864e3aa" />
+
 
 ## LINUX COMMANDS
+<img width="957" height="200" alt="image" src="https://github.com/user-attachments/assets/d2ee81d9-41e4-4caa-94a2-11b6cd67f3fb" />
 
-<img width="745" height="136" alt="lc" src="https://github.com/user-attachments/assets/1c3b2dbf-2785-4ba8-b495-58eb769f717b" />
+
 
 
 ## RESULT
